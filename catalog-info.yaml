@@ -9,7 +9,7 @@ metadata:
   tags:
     - java
   links:
-    - url: https://admin.example-org.com
+    - url: http://128.203.173.241:3002/
       title: Admin Dashboard
       icon: dashboard
       type: admin-dashboard
